@@ -1,0 +1,644 @@
+{
+    "metadata": {
+      "lastUpdated": "2025-01-22",
+      "version": "2.0"
+    },
+    "basics": {
+      "name": "Cameron Kiani",
+      "credentials": ["MD"],
+      "contact": {
+        "email": "cameron@kianimd.com",
+        "website": {
+          "url": "kianimd.com",
+          "type": "professional portfolio"
+        }
+      },
+      "professionalSummary": {
+        "current": "Early-career OEM doctor currently completing residency and MPH at Mount Sinai School of Medicine",
+        "background": "Integrates expertise in occupational medicine, psychiatry, and emerging technologies with a focus on AI applications in healthcare"
+      }
+    },
+    "education": {
+      "degrees": [
+        {
+          "type": "Bachelor of Arts",
+          "field": "Psychology",
+          "institution": {
+            "name": "University of Pennsylvania",
+            "location": "Philadelphia, PA"
+          },
+          "period": {
+            "start": "2011-08",
+            "end": "2014-12"
+          },
+          "achievements": [
+            "Phi Beta Kappa",
+            {"type": "GPA", "value": 3.96}
+          ]
+        },
+        {
+          "type": "Doctor of Medicine",
+          "field": "Medicine",
+          "institution": {
+            "name": "Mount Sinai School of Medicine",
+            "location": "New York, NY"
+          },
+          "period": {
+            "start": "2015-08",
+            "end": "2020-08"
+          },
+          "specialFeatures": [
+            "Early Assurance through selective 'Humanities & Medicine Program'",
+            {"type": "scholarlyYear", "period": "2017-2018", "funded": true}
+          ]
+        },
+        {
+          "type": "Residency",
+          "field": "Psychiatry",
+          "institution": {
+            "name": "Montefiore/Albert Einstein School of Medicine",
+            "location": "Bronx, NY",
+            "department": "Psychiatry and Behavioral Science"
+          },
+          "period": {
+            "start": "2020-08",
+            "end": "2022-08"
+          }
+        },
+        {
+          "type": "Certificate",
+          "field": "Information Systems",
+          "institution": {
+            "name": "Wright State University",
+            "location": "Dayton, OH"
+          },
+          "period": {
+            "start": "2023-01",
+            "end": "2023-04"
+          }
+        },
+        {
+          "type": "Residency",
+          "field": "Occupational and Environmental Medicine",
+          "institution": {
+            "name": "Mount Sinai School of Medicine",
+            "location": "New York, NY"
+          },
+          "period": {
+            "start": "2023-07",
+            "current": true
+          }
+        },
+        {
+          "type": "Master of Public Health",
+          "field": "Environmental Health Sciences",
+          "institution": {
+            "name": "Mount Sinai School of Medicine",
+            "location": "New York, NY"
+          },
+          "period": {
+            "start": "2023-07",
+            "current": true
+          }
+        }
+      ]
+    },
+    "clinicalExperience": {
+      "rotations": [
+        {
+          "facility": "Irving J. Selikoff Center for Occupational and Environmental Medicine",
+          "status": "Ongoing"
+        },
+        {
+          "program": "World Trade Center (WTC) Monitoring and Treatment Programs"
+        },
+        {
+          "organization": "Metropolitan Transit Authority (MTA)"
+        },
+        {
+          "department": "NYC Department of Health",
+          "program": "World Trade Center Health Registry"
+        },
+        {
+          "department": "MSSM Ambulatory Pulmonology and Respiratory Institute"
+        },
+        {
+          "specialty": "MSSM Musculoskeletal Radiology"
+        },
+        {
+          "organization": "New York Occupational Safety and Health Administration"
+        },
+        {
+          "facility": "Con Edison",
+          "department": "Employee Health Center"
+        }
+      ]
+    },
+    "professionalService": {
+      "currentRoles": [
+        {
+          "organization": "ACOEM Health Informatics Special Section",
+          "positions": ["AI Co-Lead", "Resident Liaison"],
+          "period": {
+            "start": "2023",
+            "current": true
+          },
+          "reference": {
+            "name": "Manijeh Berenji",
+            "credentials": ["MD", "MPH"]
+          }
+        },
+        {
+          "organization": "Psychiatric Services Journal",
+          "position": "Reviewer",
+          "period": {
+            "start": "2022",
+            "current": true
+          },
+          "reference": {
+            "name": "Lisa Dixon",
+            "credentials": ["MD"]
+          }
+        },
+        {
+          "organization": "Psychiatric Services Policy Advisory Group",
+          "position": "Member",
+          "period": {
+            "start": "2021",
+            "current": true
+          },
+          "reference": {
+            "name": "Lisa Dixon",
+            "credentials": ["MD"]
+          }
+        },
+        {
+          "organization": "Monoamine Oxidase Inhibitor (MAOI) Expert Group",
+          "position": "Contributor",
+          "period": {
+            "start": "2019",
+            "current": true
+          },
+          "reference": {
+            "name": "Ken P. Gillman",
+            "credentials": ["MD"]
+          }
+        }
+      ]
+    },
+    "professionalOrganizations": [
+      {
+        "acronym": "ACOEM",
+        "name": "American College of Occupational & Environmental Medicine"
+      },
+      {
+        "acronym": "ACHPD",
+        "name": "Alliance for Continuing Education in the Healthcare Professional Development"
+      }
+    ],
+    "professionalExperience": [
+      {
+        "organization": "Amisana Solutions LLC",
+        "role": "Founder & Owner",
+        "period": {
+          "start": "2022",
+          "current": true
+        },
+        "description": [
+          "Specializes in bridging the gap between businesses and emerging technologies like ChatGPT",
+          "Guides businesses through implementing and maximizing generative AI potential",
+          "Focuses on optimal customer engagement and sustainable growth",
+          "Develops custom AI solutions for specific client needs"
+        ],
+        "achievements": "Generated numerous Custom Generative AI solutions to address client requests and anticipate future market needs"
+      },
+      {
+        "organization": "Beaconhouse Capital Management",
+        "role": {
+          "title": "Consultant and Observer Board Member",
+          "period": {
+            "start": "2024",
+            "current": true
+          }
+        },
+        "keyProject": {
+          "type": "Acquisition",
+          "value": "35M",
+          "target": "Leading CME provider",
+          "contributions": [
+            {
+              "area": "Strategic Analysis",
+              "deliverables": [
+                "Comprehensive investment memo",
+                "Market opportunity assessment",
+                "Strategic rationale",
+                "In-depth industry analysis"
+              ]
+            },
+            {
+              "area": "Integration Planning",
+              "deliverables": [
+                {
+                  "type": "90-day plan",
+                  "components": [
+                    "Operational challenges",
+                    "Technological integration",
+                    "Market-specific strategies"
+                  ]
+                }
+              ]
+            },
+            {
+              "area": "Quality Assessment",
+              "focus": [
+                "CME content evaluation",
+                "Specialty-specific marketability",
+                "Accreditation alignment"
+              ]
+            },
+            {
+              "area": "Value Creation",
+              "components": [
+                "Cost synergies",
+                "Revenue growth opportunities",
+                "M&A potential"
+              ]
+            },
+            {
+              "area": "Implementation",
+              "deliverables": [
+                "Technology transition plan",
+                "Integration roadmap",
+                "Strategic insights on emerging technologies"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "organization": "Alterra Holdings",
+        "role": "Consultant",
+        "period": {
+          "start": "2022",
+          "current": true
+        },
+        "focus": [
+          "Worker wellness and safety",
+          "OEM & IH compliance",
+          "Safety program development"
+        ]
+      }
+    ],
+    "presentations": {
+      "webinars": [
+        {
+          "title": "Navigating the AI Wave: A Framework for Understanding Occupational Impact and Adaptation",
+          "event": "2024 ACOEM Fall Summit",
+          "date": "2024-11-07",
+          "format": "Virtual",
+          "duration": "45 minutes",
+          "materials": {
+            "website": "fallsummit.info",
+            "features": [
+              "Interactive quizzes",
+              "Podcast",
+              "AI glossary"
+            ]
+          }
+        },
+        {
+          "title": "Creating Custom GPTs: Enhancing Business Efficiency through AI Integration",
+          "organization": "Alterra Holdings",
+          "date": "2023-11-24",
+          "format": "Virtual",
+          "content": {
+            "workshop": {
+              "focus": "Development and deployment of custom GPTs",
+              "applications": [
+                "Data analysis",
+                "Financial planning",
+                "Operational optimization"
+              ]
+            },
+            "demonstrations": {
+              "type": "Live",
+              "topics": [
+                {
+                  "subject": "Financial Modeling GPT",
+                  "components": [
+                    "Custom role definition",
+                    "Domain knowledge integration",
+                    "Response refinement"
+                  ]
+                }
+              ]
+            },
+            "technicalContent": {
+              "markdown": {
+                "type": "Advanced techniques",
+                "focus": "GPT prompt structuring"
+              },
+              "integration": {
+                "capabilities": [
+                  "Spreadsheet integration",
+                  "OCR tool implementation",
+                  "Python workflow incorporation"
+                ]
+              }
+            },
+            "practicalElements": {
+              "exercises": [
+                "GPT design for portfolio analysis",
+                "Financial outcome prediction"
+              ],
+              "materials": {
+                "templates": "Pre-configured GPT templates",
+                "resources": "Advanced AI tool building guides"
+              }
+            }
+          }
+        },
+        {
+          "title": "ChatGPT Workshop for Health.nyc.gov Staff",
+          "date": "2024-10-09",
+          "format": "Virtual",
+          "platform": "Microsoft Teams"
+        }
+      ]
+    },
+    "projects": {
+      "mediaProjects": [
+        {
+          "name": "$DATA Framework",
+          "url": "jevonsparadox.ai",
+          "description": "Analysis framework for digital transformation infrastructure",
+          "components": [
+            "Data center infrastructure analysis",
+            "Environmental health considerations",
+            "Cooling technology assessment",
+            "Material science challenges"
+          ]
+        },
+        {
+          "name": "The Human Instrumentality Project (THIP)",
+          "year": "2024",
+          "role": "Concept Creator and Producer",
+          "urls": {
+            "concept": "thip.netlify.app",
+            "blog": "hanlonsrazor.substack.com/p/the-human-instrumentality-project",
+            "coverage": "hanlonsrazor.substack.com/p/the-human-instrumentality-project"
+          },
+          "description": "Multimedia project exploring ecological collapse, AI dominance, and technological progress impact",
+          "implementation": {
+            "videoProduction": {
+              "type": "AI-generated",
+              "tools": {
+                "visualGeneration": {
+                  "tool": "MidJourney",
+                  "output": "~1,500 conceptual images"
+                },
+                "videoProcessing": ["RunwayML", "Sora"],
+                "audio": "Eleven Labs"
+              }
+            },
+            "academicIntegration": {
+              "fields": [
+                "Sustainability",
+                "Environmental Health",
+                "AI",
+                "Occupational Medicine",
+                "Cloud Computing"
+              ]
+            },
+            "deliverables": {
+              "website": {
+                "features": [
+                  "Interactive visualizations",
+                  "Conceptual designs",
+                  "Project documentation"
+                ]
+              },
+              "demonstration": "AI-driven content creation and interdisciplinary storytelling"
+            }
+          }
+        }
+      ],
+      "digitalPresence": {
+        "blog": {
+          "name": "Hanlon's Razor Blog",
+          "url": "hanlonsrazor.substack.com",
+          "focus": "AI in medicine and society"
+        },
+        "linkedin": {
+          "url": "linkedin.com/in/kianimd",
+          "content": "AI in healthcare discussions and tutorials"
+        }
+      },
+      "aiTools": {
+        "name": "Safety Sentinel AI Assistant",
+        "url": "safetysentinel.app",
+        "features": [
+          "GPT-Vision powered analysis",
+          "Regulatory guidance",
+          "Safety standards reference"
+        ]
+      }
+    },
+    "research": {
+      "currentPublications": [
+        {
+          "year": "2024",
+          "authors": ["Kiani, C.", "Luisi, D.", "Dumanovsky, T.", "Jaber, M.", "Bienenfeld, L.", "Gonzales, N."],
+          "title": "Enhancing transportation safety through sleep apnea management: The Metropolitan Transportation Authority's OSA program",
+          "conference": "American Occupational Health Conference (AOHC)",
+          "location": "Orlando, FL",
+          "date": "2024-05-19/22"
+        }
+      ],
+      "publications": [
+        {
+          "year": "2023",
+          "authors": ["Holoyda, B.", "Kiani, C."],
+          "title": "Establishing an Ethics for Psychedelic Psychiatry",
+          "journal": "Psychiatric Services",
+          "volume": "74",
+          "issue": "8",
+          "pages": "789"
+        },
+        {
+          "year": "2021",
+          "authors": ["Kiani, C."],
+          "title": "Trial of Psilocybin versus Escitalopram for Depression (NEJM, 2021)",
+          "type": "Journal Club Presentation",
+          "venue": "Montefiore Psychiatry Residency",
+          "discussant": {
+            "name": "Jonathan Alpert",
+            "credentials": ["MD", "PhD"]
+          }
+        },
+        {
+          "year": "2020",
+          "authors": ["Kiani, C."],
+          "title": "Tranylcypromine: a Review of Pharmacology, Safety and Efficacy in Treatment Resistant Depression",
+          "journal": "American Journal of Psychiatry Residents' Journal"
+        },
+        {
+          "year": "2020",
+          "authors": ["Kiani, C.", "Gillman, P.K."],
+          "title": "About MAOIs · Cameron Kiani interviews Ken Gillman, MD",
+          "type": "Podcast",
+          "publication": "American Journal of Psychiatry Residents' Journal Podcast"
+        }
+      ],
+      "priorWork": {
+        "startYear": "2016",
+        "endYear": "2019",
+        "publications": [
+          {
+            "year": "2019",
+            "authors": ["Kiani, C.", "et al"],
+            "title": "Chronic Absenteeism: A Brief Review of Causes, Course and Treatment",
+            "journal": "Adolescent Psychiatry"
+          },
+          {
+            "year": "2018",
+            "authors": ["Kiani, C.", "et al", "Palermo, A."],
+            "title": "Pediatric Mental Health in East Harlem Schools: Current Challenges Facing Providers",
+            "type": "Poster",
+            "venue": "Medical Student Research Day",
+            "institution": "Icahn School of Medicine"
+          },
+          {
+            "year": "2017",
+            "authors": ["Kiani, C.", "Hurtado, A."],
+            "title": "Pediatric Metabolic Monitoring Program Using Electronic Charting",
+            "type": "Poster",
+            "venue": "Medical Student Research Day",
+            "institution": "Icahn School of Medicine"
+          },
+          {
+            "year": "2016",
+            "authors": ["Kim, K.", "Mann, S.", "Kiani, C.", "Otero, K.", "Taufique, S.", "Ivanov, I."],
+            "title": "Clinical Outcomes in School-Avoidant Adolescents Receiving Treatment in a Day-Hospital Setting",
+            "type": "Poster",
+            "conference": "American Association of Child & Adolescent Psychiatry Conference",
+            "location": "New York, NY"
+          }
+        ]
+      }
+    },
+    "fellowships": [
+      {
+        "name": "Mount Sinai Innovation Partners Fellow",
+        "program": "MSIP Fellows Program",
+        "description": "Highly-selective fellowship for healthcare technology commercialization",
+        "components": {
+          "scholarsBootcamp": {
+            "focus": [
+              "Technology transfer",
+              "Entrepreneurship",
+              "Licensing",
+              "Contracts"
+            ]
+          },
+          "immersiveProgram": {
+            "areas": [
+              "Business Development",
+              "Intellectual Property",
+              "New Ventures",
+              "Marketing & Outreach"
+            ]
+          },
+          "professionalDevelopment": {
+            "activities": [
+              "Industry thought leader engagement",
+              "Executive coaching"
+            ]
+          },
+          "entrepreneurialProgramming": {
+            "events": [
+              "MSIP Entrepreneurship Bootcamp",
+              "Emerging Innovations in Healthcare Conference Series",
+              "Elementa Labs Demo Day"
+            ]
+          },
+          "collaboration": {
+            "aspects": [
+              "Diverse institutional fellowship cohort",
+              "Industry expert partnerships",
+              "Technology commercialization perspectives"
+            ]
+          }
+        }
+      }
+    ],
+    "awards": [
+      {
+        "name": "AOHC 2024 Resident Scholarship",
+        "organization": "ACOEM"
+      },
+      {
+        "name": "Resident PRITE Award",
+        "organization": "Montefiore Residency Leadership"
+      },
+      {
+        "name": "Addiction Medicine Medical Student Scholar Award",
+        "organization": "Hazelden/Betty Ford Foundation"
+      },
+      {
+        "name": "Community Service Award",
+        "organization": "Mount Sinai School of Medicine"
+      },
+      {
+        "name": "Foreign Language and Area Studies Fellowship",
+        "organization": "US Department of Education"
+      }
+    ],
+    "continuingEducation": [
+      {
+        "certification": "Medical Review Officer (MRO) Comprehensive Course",
+        "provider": "American College of Occupational & Environmental Medicine"
+      },
+      {
+        "certification": "SAS Specialization in Business Analytics",
+        "provider": "Wright State University"
+      },
+      {
+        "certification": "Automating the Boring Stuff with Python",
+        "provider": "Udemy"
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Farsi",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Intermediate"
+      }
+    ],
+    "interests": [
+      "My dog Riley",
+      "Baking",
+      "Podcasts",
+      "Polaroids",
+      "Economics/Finance",
+      "Cultural Exchanges",
+      "Teaching, Learning, and Disseminating Knowledge"
+    ],
+    "abbreviations": {
+      "OEM": "Occupational & Environmental Medicine",
+      "MPH": "Masters in Public Health",
+      "ACOEM": "American College of Occupational & Environmental Medicine",
+      "MSSM": "Mount Sinai School of Medicine",
+      "AOHC": "American Occupational Health Conference",
+      "WTC": "World Trade Center",
+      "DOH": "Department of Health"
+    }
+  }
+}
